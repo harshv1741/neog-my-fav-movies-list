@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+.App {
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  margin: 2rem;
+}
+
+.titleBox {
+  background-color: black;
+  padding: 10px;
+  border-radius: 2rem;
+}
+
+.btn {
+  margin: 2rem;
+  background-color: orange;
+  color: white;
+  border-radius: 1rem;
+  width: 120px;
+  height: 40px;
+  border: none;
+}
+
+.genreList {
+  list-style: none;
+  display: block;
+  background: black;
+  color: white;
+  padding: 2rem;
+  border: 10px solid blue;
+  height: 40px;
+  transition-duration: 0.5s;
+  margin: 1rem 1rem 1rem 1rem;
+  border-radius: 1rem;
+}
+
+.genreList:hover {
+  border: 10px solid red;
+  background-color: white;
+  color: black;
+}
