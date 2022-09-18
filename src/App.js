@@ -53,8 +53,10 @@ export default function App() {
           paddingRight: "1rem"
         }}
       >
+        <h2 style={{}}>
         Here are some of my favourite movies list which I recommend everyone
         should watch.
+        </h2>            
       </h3>
       {/* Custom Style Buttons (START) */}
       {Object.keys(movieList).map((genre) => (
