@@ -45,14 +45,7 @@ export default function App() {
         <h1 style={{ color: "white" }}> Movies Recommendation List</h1>
       </div>
       {/* Using React to style the description */}
-      <h3
-        style={{
-          paddingTop: "1rem",
-          paddingBottom: "1rem",
-          paddingLeft: "4rem",
-          paddingRight: "1rem"
-        }}
-      >
+      <h3 style={{padding: "1rem"}}>
         Here are some of my favourite movies list which I recommend everyone
         should watch.
       </h3>
