@@ -1,5 +1,5 @@
 # My Favourite Movie List
-This repository is connected to my website name ** Movie Recommendation list**. 
+This repository is connected to my website name **Movie Recommendation list**. 
 
 # IDE
 - [codesandbox.io](https://codesandbox.io)
