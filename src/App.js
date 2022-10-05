@@ -69,6 +69,18 @@ export default function App() {
           ))}
         </ul>
       </div>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <h3 id="#page-end">
+              <br />
+              Made with 💖 by Harsh Vyapari <br />
+              <br />
+              Powered by Vercel
+            </h3>
+          <br />
+        </div>
+      </footer>
     </div>
   );
 }
