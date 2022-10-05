@@ -5,7 +5,7 @@ This repository is connected to my favourite movie list.
 - [codesandbox.io](https://codesandbox.io)
 
 # Text Editor
-## - Visual Studio Code
+- Visual Studio Code
 
 # Language used 
 - HTML
