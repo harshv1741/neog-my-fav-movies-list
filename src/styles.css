@@ -39,3 +39,32 @@
   background-color: white;
   color: black;
 }
+
+/* Footer (START) */
+
+/* Custom footer style */
+footer {
+  margin: 5rem 1rem 1rem 1rem;
+  color: white;
+}
+
+/* To hold all items in the footer tag in one place */
+.footer-container {
+  padding: 1rem;
+  text-align: center;
+  border-radius: 1rem;
+  background-color: #000000;
+}
+
+/* Heading of the footer tag */
+.footer-head {
+  text-align: center;
+}
+
+/* Content of the footer tag */
+
+#page-end {
+  padding-top: 6rem;
+}
+
+/* Footer (END) */
