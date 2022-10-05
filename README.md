@@ -7,4 +7,7 @@ This repository is connected to my website name **Movie Recommendation list**.
 # Text Editor
 - Visual Studio Code
 
+# Deployment Environment
+- [Vercel](vercel.com)
+
 # Click [here](https://https://neog-my-fav-movies-list.vercel.app/) to redirect to my website
