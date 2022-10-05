@@ -12,4 +12,4 @@ This repository is connected to my website name **Movie Recommendation list**.
 - CSS
 - JS
 
-# Click [here](https://harshv-neog-myfavmovies.vercel.app) to redirect to my website
+# Click [here](https://https://neog-my-fav-movies-list.vercel.app/) to redirect to my website
